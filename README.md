@@ -1,0 +1,1 @@
+![Example of ChatGPT prompt and answer](https://github.com/LouisPwr/BenchmarkTemplate/blob/master/image.png)
